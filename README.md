@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=5000&pause=1000&color=9835FB&center=true&vCenter=true&width=900&lines=+Ol%C3%A1%2C+eu+sou+o+Carlos;+Desenvolvedor+Full+Stack;+Bacharel+em+Sistemas+de+Informa%C3%A7%C3%A3o+pelo+IFPR" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=5000&pause=1000&color=677EEB&center=true&vCenter=true&width=900&lines=+Ol%C3%A1%2C+eu+sou+o+Carlos;+Desenvolvedor+Full+Stack;+Bacharel+em+Sistemas+de+Informa%C3%A7%C3%A3o+pelo+IFPR" alt="Typing SVG">
 
 <br><br>
 
