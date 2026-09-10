@@ -23,12 +23,6 @@
 
 <br><br>
 
-<img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
-
-![](https://komarev.com/ghpvc/?username=carloscarvalhoo&color=blueviolet&label=Profile+Views)
-
-<br><br>
-
 <div align="center">
 <h1> 💜 Linguagens e ferramentas 💜 </h1>
 
