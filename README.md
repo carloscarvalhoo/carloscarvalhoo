@@ -9,7 +9,7 @@
 <br><br>
 
 <div>
-<h1> 🌍 Sobre mim </h1>
+<h1> 👨‍💻 </h1>
 
 <h2>Sou o Carlos, Desenvolvedor Full Stack e Bacharel em Sistemas de Informação pelo Instituto Federal do Paraná (IFPR). Cada projeto é uma oportunidade de criar algo especial, com foco em código de qualidade e boa experiência de uso.</h2>
 
